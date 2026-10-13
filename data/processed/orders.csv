@@ -1,0 +1,121 @@
+order_id,message,crop,quantity_g,delivery_date,customer_type,delivery_area,special_request,data_type
+SIM-001,"Hi, order 50g Radish microgreens for 24 Oct 2026.",Radish,50,2026-10-24,Household,Electronic City,Freshly packed,synthetic
+SIM-002,Please deliver 500g of Radish microgreens on 24 Oct 2026.,Radish,500,2026-10-24,Retailer,Bengaluru,None,synthetic
+SIM-003,We need 50 grams of Radish for our order due 16 Oct 2026.,Radish,50,2026-10-16,Retailer,Anekal,Freshly packed,synthetic
+SIM-004,Can you supply 200g of Mustard microgreens by 16 Oct 2026?,Mustard,200,2026-10-16,Retailer,HSR Layout,None,synthetic
+SIM-005,"Hi, order 500g Broccoli microgreens for 19 Oct 2026.",Broccoli,500,2026-10-19,Cafe,Electronic City,Freshly packed,synthetic
+SIM-006,Can you supply 50g of Sunflower microgreens by 14 Oct 2026?,Sunflower,50,2026-10-14,Household,HSR Layout,Morning delivery,synthetic
+SIM-007,Please deliver 150g of Mustard microgreens on 25 Oct 2026.,Mustard,150,2026-10-25,Retailer,Bengaluru,None,synthetic
+SIM-008,"Hi, order 50g Pea Shoots microgreens for 21 Oct 2026.",Pea Shoots,50,2026-10-21,Retailer,HSR Layout,Freshly packed,synthetic
+SIM-009,We need 50 grams of Radish for our order due 23 Oct 2026.,Radish,50,2026-10-23,Cafe,Anekal,Freshly packed,synthetic
+SIM-010,Can you supply 200g of Radish microgreens by 17 Oct 2026?,Radish,200,2026-10-17,Retailer,HSR Layout,Freshly packed,synthetic
+SIM-011,"Hi, order 150g Sunflower microgreens for 16 Oct 2026.",Sunflower,150,2026-10-16,Retailer,Anekal,Freshly packed,synthetic
+SIM-012,We need 500 grams of Mustard for our order due 16 Oct 2026.,Mustard,500,2026-10-16,Cafe,Bengaluru,Morning delivery,synthetic
+SIM-013,"Hi, order 100g Mustard microgreens for 23 Oct 2026.",Mustard,100,2026-10-23,Household,Electronic City,None,synthetic
+SIM-014,Please deliver 200g of Sunflower microgreens on 17 Oct 2026.,Sunflower,200,2026-10-17,Household,HSR Layout,Freshly packed,synthetic
+SIM-015,Can you supply 200g of Pea Shoots microgreens by 23 Oct 2026?,Pea Shoots,200,2026-10-23,Household,HSR Layout,Freshly packed,synthetic
+SIM-016,"Hi, order 500g Broccoli microgreens for 21 Oct 2026.",Broccoli,500,2026-10-21,Retailer,Bengaluru,Separate packaging,synthetic
+SIM-017,Can you supply 100g of Sunflower microgreens by 15 Oct 2026?,Sunflower,100,2026-10-15,Household,Anekal,None,synthetic
+SIM-018,Can you supply 500g of Broccoli microgreens by 15 Oct 2026?,Broccoli,500,2026-10-15,Retailer,Anekal,Separate packaging,synthetic
+SIM-019,"Hi, order 250g Pea Shoots microgreens for 20 Oct 2026.",Pea Shoots,250,2026-10-20,Retailer,Anekal,None,synthetic
+SIM-020,"Hi, order 1000g Mustard microgreens for 17 Oct 2026.",Mustard,1000,2026-10-17,Household,HSR Layout,Separate packaging,synthetic
+SIM-021,"Hi, order 200g Broccoli microgreens for 13 Oct 2026.",Broccoli,200,2026-10-13,Retailer,Electronic City,None,synthetic
+SIM-022,We need 1000 grams of Sunflower for our order due 23 Oct 2026.,Sunflower,1000,2026-10-23,Household,HSR Layout,Freshly packed,synthetic
+SIM-023,Please deliver 1000g of Mustard microgreens on 21 Oct 2026.,Mustard,1000,2026-10-21,Retailer,HSR Layout,Separate packaging,synthetic
+SIM-024,"Hi, order 50g Radish microgreens for 18 Oct 2026.",Radish,50,2026-10-18,Household,Anekal,Freshly packed,synthetic
+SIM-025,Can you supply 50g of Mustard microgreens by 14 Oct 2026?,Mustard,50,2026-10-14,Household,Electronic City,Freshly packed,synthetic
+SIM-026,"Hi, order 250g Pea Shoots microgreens for 15 Oct 2026.",Pea Shoots,250,2026-10-15,Retailer,Bengaluru,Freshly packed,synthetic
+SIM-027,We need 1000 grams of Mustard for our order due 24 Oct 2026.,Mustard,1000,2026-10-24,Retailer,HSR Layout,Separate packaging,synthetic
+SIM-028,Can you supply 200g of Sunflower microgreens by 21 Oct 2026?,Sunflower,200,2026-10-21,Household,Electronic City,Freshly packed,synthetic
+SIM-029,We need 150 grams of Radish for our order due 13 Oct 2026.,Radish,150,2026-10-13,Retailer,Electronic City,None,synthetic
+SIM-030,Please deliver 500g of Radish microgreens on 23 Oct 2026.,Radish,500,2026-10-23,Household,Anekal,None,synthetic
+SIM-031,We need 50 grams of Sunflower for our order due 21 Oct 2026.,Sunflower,50,2026-10-21,Cafe,Bengaluru,Freshly packed,synthetic
+SIM-032,Can you supply 100g of Mustard microgreens by 24 Oct 2026?,Mustard,100,2026-10-24,Household,Bengaluru,Separate packaging,synthetic
+SIM-033,Can you supply 50g of Broccoli microgreens by 14 Oct 2026?,Broccoli,50,2026-10-14,Cafe,Bengaluru,Separate packaging,synthetic
+SIM-034,Please deliver 1000g of Pea Shoots microgreens on 24 Oct 2026.,Pea Shoots,1000,2026-10-24,Retailer,Anekal,None,synthetic
+SIM-035,Please deliver 500g of Pea Shoots microgreens on 18 Oct 2026.,Pea Shoots,500,2026-10-18,Household,Electronic City,Freshly packed,synthetic
+SIM-036,Can you supply 200g of Mustard microgreens by 15 Oct 2026?,Mustard,200,2026-10-15,Household,HSR Layout,Separate packaging,synthetic
+SIM-037,Can you supply 1000g of Broccoli microgreens by 14 Oct 2026?,Broccoli,1000,2026-10-14,Retailer,Anekal,None,synthetic
+SIM-038,Please deliver 1000g of Mustard microgreens on 13 Oct 2026.,Mustard,1000,2026-10-13,Household,Electronic City,Separate packaging,synthetic
+SIM-039,Can you supply 200g of Pea Shoots microgreens by 16 Oct 2026?,Pea Shoots,200,2026-10-16,Household,Electronic City,Separate packaging,synthetic
+SIM-040,Can you supply 200g of Radish microgreens by 17 Oct 2026?,Radish,200,2026-10-17,Cafe,Bengaluru,Separate packaging,synthetic
+SIM-041,We need 100 grams of Broccoli for our order due 17 Oct 2026.,Broccoli,100,2026-10-17,Household,Anekal,Morning delivery,synthetic
+SIM-042,Can you supply 50g of Radish microgreens by 22 Oct 2026?,Radish,50,2026-10-22,Retailer,Electronic City,None,synthetic
+SIM-043,We need 50 grams of Mustard for our order due 26 Oct 2026.,Mustard,50,2026-10-26,Household,Anekal,Freshly packed,synthetic
+SIM-044,We need 50 grams of Pea Shoots for our order due 22 Oct 2026.,Pea Shoots,50,2026-10-22,Retailer,Anekal,None,synthetic
+SIM-045,"Hi, order 500g Pea Shoots microgreens for 22 Oct 2026.",Pea Shoots,500,2026-10-22,Cafe,Electronic City,Morning delivery,synthetic
+SIM-046,We need 150 grams of Broccoli for our order due 19 Oct 2026.,Broccoli,150,2026-10-19,Retailer,HSR Layout,Separate packaging,synthetic
+SIM-047,Please deliver 1000g of Sunflower microgreens on 14 Oct 2026.,Sunflower,1000,2026-10-14,Cafe,Anekal,None,synthetic
+SIM-048,"Hi, order 100g Mustard microgreens for 21 Oct 2026.",Mustard,100,2026-10-21,Household,HSR Layout,None,synthetic
+SIM-049,We need 150 grams of Broccoli for our order due 17 Oct 2026.,Broccoli,150,2026-10-17,Cafe,HSR Layout,None,synthetic
+SIM-050,Please deliver 150g of Mustard microgreens on 23 Oct 2026.,Mustard,150,2026-10-23,Household,HSR Layout,None,synthetic
+SIM-051,We need 500 grams of Radish for our order due 21 Oct 2026.,Radish,500,2026-10-21,Cafe,HSR Layout,Freshly packed,synthetic
+SIM-052,"Hi, order 100g Sunflower microgreens for 23 Oct 2026.",Sunflower,100,2026-10-23,Retailer,Bengaluru,Morning delivery,synthetic
+SIM-053,Can you supply 50g of Radish microgreens by 23 Oct 2026?,Radish,50,2026-10-23,Cafe,Anekal,None,synthetic
+SIM-054,"Hi, order 1000g Sunflower microgreens for 15 Oct 2026.",Sunflower,1000,2026-10-15,Household,Bengaluru,Separate packaging,synthetic
+SIM-055,Please deliver 50g of Mustard microgreens on 14 Oct 2026.,Mustard,50,2026-10-14,Retailer,Electronic City,None,synthetic
+SIM-056,We need 250 grams of Sunflower for our order due 21 Oct 2026.,Sunflower,250,2026-10-21,Cafe,Electronic City,None,synthetic
+SIM-057,Please deliver 150g of Sunflower microgreens on 25 Oct 2026.,Sunflower,150,2026-10-25,Cafe,Electronic City,Freshly packed,synthetic
+SIM-058,Can you supply 150g of Radish microgreens by 25 Oct 2026?,Radish,150,2026-10-25,Retailer,Electronic City,Freshly packed,synthetic
+SIM-059,We need 1000 grams of Broccoli for our order due 25 Oct 2026.,Broccoli,1000,2026-10-25,Cafe,Anekal,Freshly packed,synthetic
+SIM-060,We need 1000 grams of Sunflower for our order due 19 Oct 2026.,Sunflower,1000,2026-10-19,Cafe,Electronic City,None,synthetic
+SIM-061,Can you supply 1000g of Pea Shoots microgreens by 13 Oct 2026?,Pea Shoots,1000,2026-10-13,Household,Electronic City,Separate packaging,synthetic
+SIM-062,We need 150 grams of Sunflower for our order due 26 Oct 2026.,Sunflower,150,2026-10-26,Household,Anekal,Freshly packed,synthetic
+SIM-063,Please deliver 150g of Pea Shoots microgreens on 17 Oct 2026.,Pea Shoots,150,2026-10-17,Cafe,HSR Layout,Separate packaging,synthetic
+SIM-064,Please deliver 150g of Mustard microgreens on 13 Oct 2026.,Mustard,150,2026-10-13,Cafe,Electronic City,Morning delivery,synthetic
+SIM-065,Can you supply 50g of Radish microgreens by 22 Oct 2026?,Radish,50,2026-10-22,Cafe,HSR Layout,Separate packaging,synthetic
+SIM-066,Can you supply 250g of Mustard microgreens by 14 Oct 2026?,Mustard,250,2026-10-14,Retailer,Electronic City,Morning delivery,synthetic
+SIM-067,Please deliver 500g of Radish microgreens on 19 Oct 2026.,Radish,500,2026-10-19,Retailer,Electronic City,Morning delivery,synthetic
+SIM-068,"Hi, order 50g Pea Shoots microgreens for 23 Oct 2026.",Pea Shoots,50,2026-10-23,Retailer,HSR Layout,None,synthetic
+SIM-069,Can you supply 250g of Sunflower microgreens by 17 Oct 2026?,Sunflower,250,2026-10-17,Cafe,Bengaluru,Morning delivery,synthetic
+SIM-070,Can you supply 100g of Mustard microgreens by 16 Oct 2026?,Mustard,100,2026-10-16,Retailer,Bengaluru,Freshly packed,synthetic
+SIM-071,Can you supply 250g of Mustard microgreens by 17 Oct 2026?,Mustard,250,2026-10-17,Retailer,Anekal,Morning delivery,synthetic
+SIM-072,"Hi, order 100g Sunflower microgreens for 19 Oct 2026.",Sunflower,100,2026-10-19,Cafe,Bengaluru,Separate packaging,synthetic
+SIM-073,We need 250 grams of Broccoli for our order due 20 Oct 2026.,Broccoli,250,2026-10-20,Retailer,Anekal,Morning delivery,synthetic
+SIM-074,"Hi, order 500g Mustard microgreens for 23 Oct 2026.",Mustard,500,2026-10-23,Household,Electronic City,Morning delivery,synthetic
+SIM-075,We need 1000 grams of Broccoli for our order due 16 Oct 2026.,Broccoli,1000,2026-10-16,Household,Anekal,Freshly packed,synthetic
+SIM-076,Please deliver 250g of Pea Shoots microgreens on 26 Oct 2026.,Pea Shoots,250,2026-10-26,Cafe,Bengaluru,Freshly packed,synthetic
+SIM-077,We need 200 grams of Pea Shoots for our order due 19 Oct 2026.,Pea Shoots,200,2026-10-19,Household,Anekal,None,synthetic
+SIM-078,Can you supply 100g of Pea Shoots microgreens by 15 Oct 2026?,Pea Shoots,100,2026-10-15,Household,Electronic City,None,synthetic
+SIM-079,Can you supply 100g of Pea Shoots microgreens by 25 Oct 2026?,Pea Shoots,100,2026-10-25,Retailer,HSR Layout,Separate packaging,synthetic
+SIM-080,Can you supply 1000g of Mustard microgreens by 24 Oct 2026?,Mustard,1000,2026-10-24,Retailer,Bengaluru,Freshly packed,synthetic
+SIM-081,We need 200 grams of Pea Shoots for our order due 17 Oct 2026.,Pea Shoots,200,2026-10-17,Retailer,HSR Layout,Separate packaging,synthetic
+SIM-082,Please deliver 150g of Broccoli microgreens on 20 Oct 2026.,Broccoli,150,2026-10-20,Retailer,HSR Layout,Freshly packed,synthetic
+SIM-083,Please deliver 150g of Sunflower microgreens on 18 Oct 2026.,Sunflower,150,2026-10-18,Household,Electronic City,Freshly packed,synthetic
+SIM-084,We need 500 grams of Pea Shoots for our order due 15 Oct 2026.,Pea Shoots,500,2026-10-15,Household,Bengaluru,Separate packaging,synthetic
+SIM-085,Can you supply 250g of Sunflower microgreens by 20 Oct 2026?,Sunflower,250,2026-10-20,Household,Electronic City,Separate packaging,synthetic
+SIM-086,Please deliver 1000g of Pea Shoots microgreens on 22 Oct 2026.,Pea Shoots,1000,2026-10-22,Retailer,Bengaluru,Separate packaging,synthetic
+SIM-087,Can you supply 150g of Radish microgreens by 17 Oct 2026?,Radish,150,2026-10-17,Cafe,Electronic City,Separate packaging,synthetic
+SIM-088,Can you supply 150g of Broccoli microgreens by 19 Oct 2026?,Broccoli,150,2026-10-19,Household,Bengaluru,Morning delivery,synthetic
+SIM-089,Can you supply 500g of Pea Shoots microgreens by 15 Oct 2026?,Pea Shoots,500,2026-10-15,Household,Anekal,Separate packaging,synthetic
+SIM-090,Please deliver 250g of Mustard microgreens on 23 Oct 2026.,Mustard,250,2026-10-23,Household,Bengaluru,Freshly packed,synthetic
+SIM-091,"Hi, order 100g Pea Shoots microgreens for 13 Oct 2026.",Pea Shoots,100,2026-10-13,Cafe,HSR Layout,Freshly packed,synthetic
+SIM-092,Can you supply 150g of Pea Shoots microgreens by 18 Oct 2026?,Pea Shoots,150,2026-10-18,Cafe,Bengaluru,Morning delivery,synthetic
+SIM-093,Please deliver 200g of Radish microgreens on 13 Oct 2026.,Radish,200,2026-10-13,Cafe,Electronic City,None,synthetic
+SIM-094,We need 1000 grams of Radish for our order due 13 Oct 2026.,Radish,1000,2026-10-13,Household,Anekal,Freshly packed,synthetic
+SIM-095,Please deliver 100g of Broccoli microgreens on 20 Oct 2026.,Broccoli,100,2026-10-20,Retailer,Electronic City,Separate packaging,synthetic
+SIM-096,We need 1000 grams of Sunflower for our order due 18 Oct 2026.,Sunflower,1000,2026-10-18,Retailer,Anekal,Freshly packed,synthetic
+SIM-097,Please deliver 50g of Sunflower microgreens on 22 Oct 2026.,Sunflower,50,2026-10-22,Cafe,Bengaluru,Separate packaging,synthetic
+SIM-098,We need 50 grams of Broccoli for our order due 22 Oct 2026.,Broccoli,50,2026-10-22,Household,HSR Layout,None,synthetic
+SIM-099,"Hi, order 1000g Mustard microgreens for 13 Oct 2026.",Mustard,1000,2026-10-13,Retailer,Bengaluru,Morning delivery,synthetic
+SIM-100,"Hi, order 250g Radish microgreens for 23 Oct 2026.",Radish,250,2026-10-23,Household,Bengaluru,Separate packaging,synthetic
+SIM-101,Can you supply 200g of Radish microgreens by 18 Oct 2026?,Radish,200,2026-10-18,Retailer,Electronic City,Separate packaging,synthetic
+SIM-102,"Hi, order 500g Broccoli microgreens for 21 Oct 2026.",Broccoli,500,2026-10-21,Retailer,Bengaluru,Separate packaging,synthetic
+SIM-103,"Hi, order 1000g Pea Shoots microgreens for 24 Oct 2026.",Pea Shoots,1000,2026-10-24,Cafe,Electronic City,None,synthetic
+SIM-104,Can you supply 200g of Sunflower microgreens by 16 Oct 2026?,Sunflower,200,2026-10-16,Retailer,Bengaluru,Morning delivery,synthetic
+SIM-105,"Hi, order 200g Radish microgreens for 26 Oct 2026.",Radish,200,2026-10-26,Household,Bengaluru,Freshly packed,synthetic
+SIM-106,"Hi, order 1000g Sunflower microgreens for 17 Oct 2026.",Sunflower,1000,2026-10-17,Cafe,HSR Layout,None,synthetic
+SIM-107,We need 100 grams of Mustard for our order due 14 Oct 2026.,Mustard,100,2026-10-14,Retailer,Bengaluru,Separate packaging,synthetic
+SIM-108,Can you supply 1000g of Mustard microgreens by 16 Oct 2026?,Mustard,1000,2026-10-16,Retailer,Bengaluru,Separate packaging,synthetic
+SIM-109,We need 50 grams of Radish for our order due 17 Oct 2026.,Radish,50,2026-10-17,Cafe,Electronic City,Morning delivery,synthetic
+SIM-110,"Hi, order 150g Mustard microgreens for 20 Oct 2026.",Mustard,150,2026-10-20,Cafe,HSR Layout,Morning delivery,synthetic
+SIM-111,"Hi, order 150g Pea Shoots microgreens for 17 Oct 2026.",Pea Shoots,150,2026-10-17,Household,Anekal,Freshly packed,synthetic
+SIM-112,We need 50 grams of Sunflower for our order due 24 Oct 2026.,Sunflower,50,2026-10-24,Household,Electronic City,Separate packaging,synthetic
+SIM-113,"Hi, order 500g Sunflower microgreens for 22 Oct 2026.",Sunflower,500,2026-10-22,Household,Electronic City,Morning delivery,synthetic
+SIM-114,"Hi, order 150g Broccoli microgreens for 15 Oct 2026.",Broccoli,150,2026-10-15,Household,Electronic City,Morning delivery,synthetic
+SIM-115,"Hi, order 50g Radish microgreens for 21 Oct 2026.",Radish,50,2026-10-21,Retailer,Electronic City,Separate packaging,synthetic
+SIM-116,"Hi, order 1000g Radish microgreens for 13 Oct 2026.",Radish,1000,2026-10-13,Cafe,Bengaluru,Separate packaging,synthetic
+SIM-117,"Hi, order 100g Sunflower microgreens for 13 Oct 2026.",Sunflower,100,2026-10-13,Cafe,Anekal,None,synthetic
+SIM-118,Please deliver 200g of Pea Shoots microgreens on 14 Oct 2026.,Pea Shoots,200,2026-10-14,Household,Electronic City,Morning delivery,synthetic
+SIM-119,Can you supply 100g of Radish microgreens by 14 Oct 2026?,Radish,100,2026-10-14,Retailer,Electronic City,Separate packaging,synthetic
+SIM-120,Can you supply 200g of Pea Shoots microgreens by 17 Oct 2026?,Pea Shoots,200,2026-10-17,Cafe,Anekal,None,synthetic
