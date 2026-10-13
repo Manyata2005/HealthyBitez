@@ -1,4 +1,3 @@
-
 # 🌱 Healthy Bitez GrowWise AI
 
 **AI-assisted microgreens order extraction, demand analysis, and crop planning.**
@@ -15,7 +14,7 @@ GrowWise AI demonstrates an AI-assisted workflow for extracting order details, c
 
 ## Key Features
 
-- **AI-assisted order extraction:** Uses Ollama with the `qwen2.5:1.5b` model to support the extraction workflow.
+- **AI-assisted order extraction:** Uses Ollama with the `qwen2.5:1.5b` model as part of the extraction workflow.
 - **Structured order details:** Extracts crop, quantity, delivery date, customer type, delivery area, and special requests using explicit rules.
 - **Missing-information checks:** Flags orders with missing required fields.
 - **Approved delivery-area validation:** Blocks confirmation when the delivery area is missing or is not in the configured approved-area list.
@@ -50,20 +49,14 @@ GrowWiseAI/
 ├── scripts/
 │   ├── evaluate_extraction.py
 │   └── generate_data.py
+├── tests/
+├── .gitignore
 └── README.md
 ```
 
-## Requirements
-
-- Python installed
-- Required Python packages installed
-- Ollama installed and running locally
-- The `qwen2.5:1.5b` model downloaded
-- The expected order dataset available
-
 ## Setup and Installation
 
-The commands below use PowerShell on Windows and assume the project is located at `C:\AIProjects\GrowWiseAI`.
+These commands use PowerShell on Windows and assume the project is located at `C:\AIProjects\GrowWiseAI`.
 
 ### 1. Open the project directory
 
@@ -71,32 +64,27 @@ The commands below use PowerShell on Windows and assume the project is located a
 Set-Location "C:\AIProjects\GrowWiseAI"
 ```
 
-### 2. Create and activate a virtual environment (recommended)
+### 2. Create and activate a virtual environment
 
 ```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 ```
 
-If PowerShell blocks activation, use the Python executable inside the virtual environment directly or follow your system's approved PowerShell policy.
+If activation is blocked by PowerShell, use the Python executable inside `.venv` directly or follow your system's approved PowerShell policy.
 
 ### 3. Install Python dependencies
 
-If the project contains `requirements.txt`, run:
+This project currently does not include a `requirements.txt` file. Install the packages used by the application:
 
 ```powershell
-python -m pip install -r requirements.txt
-```
-
-If it does not, install the packages used by the application:
-
-```powershell
+python -m pip install --upgrade pip
 python -m pip install streamlit pandas requests
 ```
 
 ### 4. Start Ollama and download the model
 
-Make sure Ollama is installed and running. In PowerShell, run:
+Make sure Ollama is installed and running, then run:
 
 ```powershell
 ollama pull qwen2.5:1.5b
@@ -126,7 +114,9 @@ python -m streamlit run app/dashboard.py
 
 Open the local URL printed by Streamlit, usually:
 
+```text
 http://localhost:8501
+```
 
 ## Using the Application
 
@@ -137,7 +127,7 @@ http://localhost:8501
 5. **Confirm and save:** Confirm a valid order to save it to `data/processed/confirmed_orders.csv`.
 6. **Confirmed Orders:** Review saved records and download the CSV.
 
-### Delivery-Area Validation
+## Delivery-Area Validation
 
 Delivery areas are checked against the configured list in `app/order_rules.py`.
 
@@ -158,40 +148,40 @@ Run:
 python scripts/evaluate_extraction.py
 ```
 
-The current hand-written evaluation dataset contains 20 test messages and compares six extracted fields per message.
+The hand-written evaluation dataset contains 20 test messages and compares six extracted fields per message.
 
-A previous run matched **120 out of 120 expected field values across 20 cases**.
+A previous run matched **120 out of 120 expected field values across 20 cases**. This measures agreement with those specific test cases; it does not establish 100% accuracy on unseen customer messages or independently measure the raw language model.
 
-This result measures agreement with the specific test cases. It does not establish 100% accuracy on unseen customer messages or independently measure the raw language model.
+## Demo Workflow
 
-## Suggested Demo Workflow
+1. Open the dashboard.
+2. Review the Demand & Inventory tab.
+3. Inspect the Crop Planner tab.
+4. Submit a complete order for an approved area, such as Anekal.
+5. Review the extracted fields and confirm the order.
+6. Submit the same message again to demonstrate duplicate protection.
+7. Try an unsupported area, such as `Hello`, to demonstrate blocked confirmation.
+8. Submit an incomplete message to demonstrate missing-information checks.
+9. Open Confirmed Orders and download the CSV.
 
-1. Open the dashboard and review Demand & Inventory.
-2. Explore the Crop Planner.
-3. Submit a complete order for an approved area, such as Anekal.
-4. Review the extracted fields and confirm the order.
-5. Submit the same message again to demonstrate duplicate protection.
-6. Submit an order with an unsupported area, such as `Hello`, to demonstrate blocked confirmation.
-7. Submit an incomplete message to demonstrate missing-information checks.
-8. Open Confirmed Orders and download the CSV.
-
-Use synthetic data for the demonstration and verify the results on the current version before presenting them.
+Use synthetic data for the demonstration and verify results on the current version before presenting them.
 
 ## Limitations
 
 - This is a prototype, not a production order-management system.
-- Order examples are synthetic.
+- The supplied order dataset is synthetic.
 - Stock values and growing durations are illustrative assumptions, not real measurements.
 - Extraction rules support a limited set of crop names, locations, and phrases.
-- Location extraction can identify a candidate place name, but the approved-area list does not verify real-world geography.
+- The approved-area list does not verify real-world geography.
 - The duplicate check can flag a legitimate repeat order if its message and extracted details are identical to an earlier order.
 - CSV storage does not provide the transactional safeguards of a production database.
 - The evaluation dataset is small and hand-written.
-- Production use would require broader testing, validated business data, suitable access controls, reliable order identification, and more robust storage.
+
+Production use would require broader testing, validated business data, suitable access controls, reliable order identification, and more robust storage.
 
 ## Future Improvements
 
-- Support more crops, quantities, locations, and natural-language variations.
+- Expand extraction coverage for more crops, quantities, locations, and natural-language variations.
 - Allow users to correct extracted fields before confirmation.
 - Add automated tests for validation, duplicate handling, and saving.
 - Expand evaluation with messages not used during development.
